@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 .container{
-	padding:20px;
+	margin:100px;
 		}
 
 header{
@@ -82,6 +82,7 @@ nav{
 
 .logo{
 	padding: 0px 0px 0px 50px;
+	display: inline;	
 }
 
 nav a{
@@ -103,7 +104,7 @@ h1 {
 		}
 
 .button{
-	display: block;
+	/* display: block; */
 	font-family:;
 	text-align:center;
 		}
