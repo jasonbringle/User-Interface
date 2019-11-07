@@ -107,6 +107,7 @@ h1 {
 	/* display: block; */
 	font-family:;
 	text-align:center;
+	border-radius: 0px;
 		}
 
 .circle{
@@ -117,16 +118,41 @@ h1 {
 
 .features{
 	display:inline-block;
-	width: 50%;
-	/* margin:; */
+	width: 49.5%;
+	margin:20px 0px 20px 0px;
 	/* background-color:blue; */
 		}
 
 .about{
 	display:inline-block;
-	width: 50%;
-	/* margin:; */
+	width: 49.5%;
+	padding: 0px 10px;
+	margin:20px 0px 20px 0px;
 		}
+
+.middle-img{
+		/* height:; */
+		width: 100%;
+		display:inline;
+}
+
+.services{
+	display:inline-block;
+	width: 33%;
+	margin:20px 0px 20px 0px;
+}
+
+.product{
+	display:inline-block;
+	width: 33%;
+	margin:20px 0px 20px 0px;
+}
+
+.vison{
+	display:inline-block;
+	width: 33%;
+	margin:20px 0px 20px 0px;
+}
 
 footer{
 	text-align: center;
