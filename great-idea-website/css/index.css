@@ -66,61 +66,63 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 .container{
-	margin:100px;
+	margin:50px;
 		}
 
 header{
 	display: inline-block;
-	padding: 50px;
-	/* background-color: lightblue; */
+	text-align: center;
+	width: 49.9%;
 		}
 
+.nav-bar{
+	display:inline-block;
+	width:100%;
+
+		}
 
 nav{
 	display:inline;
-		}
+		}		
 
 .logo{
-	padding: 0px 0px 0px 50px;
-	display: inline;	
-}
+	display: inline-block;
+		}
 
 nav a{
-	/* font-family:; */
 	text-decoration: none;
 	color: gray;
-	padding: 30px;
+	padding: 0% 6% 0% 0%;
+	display:inline-block;
 		}
 
 
 h1 {
-	padding: 20px;
+	/* padding: 20px; */
 	font-size: 100px;
-	display: inline-block;
-	/* background-color: gray; */
+	display: block;
 	text-align: center;
-	height: 300px;
-	width: 50%;
 		}
 
 .button{
-	/* display: block; */
 	font-family:;
 	text-align:center;
-	border-radius: 0px;
+	display: inline-block;
 		}
 
 .circle{
-	display: inline;
-	padding: 70px;
-	width: 50%;
+	display: inline-block;
+	width: 49.9;
 		}
+
+.upper-section{
+	margin: 50px 0px;
+}
 
 .features{
 	display:inline-block;
 	width: 49.5%;
 	margin:20px 0px 20px 0px;
-	/* background-color:blue; */
 		}
 
 .about{
